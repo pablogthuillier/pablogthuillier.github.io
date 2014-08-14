@@ -211,6 +211,19 @@
 					width: auto;
 				}
 
+	/* Projects */				
+	
+	.project {
+		width:100%;
+		margin:0px auto;
+		text-align:center;
+	}
+	
+	.project.left{
+		float:left;
+	}
+
+
 	/* Lists */
 
 		ul.default
@@ -561,8 +574,8 @@
 					{
 						position: absolute;
 						top: 0;
-						height: 100%;
-						width: auto;
+/*						height: 100%;*/
+						width: 100%;
 					}
 
 				.box.style1 .inner
