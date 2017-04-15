@@ -294,3 +294,7 @@
 		{
 			opacity: 0.5;
 		}
+
+.book_cover img {
+	width: 80%;
+}
